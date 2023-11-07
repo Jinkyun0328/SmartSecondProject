@@ -17,5 +17,9 @@
 #### 실행결과
 ![images2](https://user-images.githubusercontent.com/123911778/280884484-f4631e32-dc0e-488f-9469-2951ad92fa22.PNG)
 
+#### 해결법
+- flask 서버를 사용하여 자바와 파이썬을 각각 실행
+- 아직 안 배움. 당장 못 함
+
 
 ## 2. OpenCV
