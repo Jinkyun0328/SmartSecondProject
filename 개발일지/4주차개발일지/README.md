@@ -2,8 +2,9 @@
 ## 4주차개발일지
 ### 오류해결과정
 github와 연결하면서 프로젝트에 오류가 발생했다.        
-- 서버가 실행이 되지 않았다.        
-![111](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/d235e0b1-bf4a-45a0-b41d-984be1ebf9a0 align="right")        
+- 서버가 실행이 되지 않았다.
+<img src="[image_src](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/d235e0b1-bf4a-45a0-b41d-984be1ebf9a0)" align="left">
+![111]( align="right")        
 
 Multiple Contexts have a path of "/MessageSystem"이 중복되어서 실행되지 않았다.        
 servers -> tomcat -> module로 들어가서 Path를 변경하여 해결한다.        
