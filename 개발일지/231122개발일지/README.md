@@ -13,3 +13,7 @@
 ### Training Graph
 ![444](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/f5ce6a4a-c95c-4b59-b427-a5edd7db85c7)
 
+### Output
+![6666](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/ba84bb77-a4a6-4be9-bed3-c0557d8f1d2a)
+![555](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/5ffe288f-be31-4b52-9689-326de5dd2a91)
+
