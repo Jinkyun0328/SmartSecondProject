@@ -1,6 +1,7 @@
 # SmartSecondProject
 ## 오늘 목표
-검출된 손톱 좌표를 기반으로 네일아트 사진을 입히기
+- 네일샵 데이터 크롤링
+- 검출된 손톱 좌표를 기반으로 네일아트 사진을 입히기
 
 ### input
 ![img2](https://github.com/Jinkyun0328/SmartSecondProject/assets/123911778/31193fab-31be-43d1-b349-bfffaedfa0fc)
